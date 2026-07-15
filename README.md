@@ -36,7 +36,7 @@ This project is an interactive Power BI dashboard built to analyze the Brazilian
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](power%20bi%20olist.PNG)
 
 ---
 
